@@ -8,6 +8,7 @@ Fire Alarm System Project
 4. Ratnadeep Patra
 5. Ankit Raj
 6. Harshrajsinh gohil
+7.dsg
 
 ## Mentors
 1. Naveen Rawat
